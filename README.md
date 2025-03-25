@@ -12,5 +12,6 @@ How to Use
 git clone https://github.com/yourusername/array_multiplier.git  
 cd array_multiplier
 
-# Open the project in Vivado 2018
-# Run the testbench to verify the multiplier
+--------------------------------------------------------------
+ Open the project in Vivado 2018
+ Run the testbench to verify the multiplier
